@@ -23,3 +23,5 @@ or
 
 if you have pulled the image
 docker run --rm -p 80:80 -d -e OPEN_API_KEY = Your_open_ai_key raviranjan0631/ats:1
+
+#### Step 3 - Once you have run the container then go to http://localhost:80
