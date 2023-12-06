@@ -1,0 +1,5 @@
+pandas
+openai
+streamlit
+PyMuPDF
+sentence-transformers
